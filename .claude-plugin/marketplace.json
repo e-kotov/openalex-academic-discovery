@@ -1,0 +1,17 @@
+{
+  "name": "openalex-academic-discovery",
+  "owner": {
+    "name": "Egor Kotov",
+    "url": "https://github.com/e-kotov"
+  },
+  "metadata": {
+    "description": "Agent skill for academic discovery and publication verification with OpenAlex."
+  },
+  "plugins": [
+    {
+      "name": "openalex-academic-discovery",
+      "source": "./",
+      "description": "Scout research groups, find PhD/postdoc/fellowship hosts, profile scholars, and verify publication claims using OpenAlex."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "openalex-academic-discovery",
+  "description": "Scout research groups, find PhD/postdoc/fellowship hosts, profile scholars, and verify publication claims using OpenAlex.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "openalex",
+    "academic",
+    "research",
+    "bibliometrics",
+    "literature"
+  ],
+  "repository": "https://github.com/e-kotov/openalex-academic-discovery",
+  "homepage": "https://github.com/e-kotov/openalex-academic-discovery",
+  "author": {
+    "name": "Egor Kotov",
+    "url": "https://github.com/e-kotov"
+  }
+}
